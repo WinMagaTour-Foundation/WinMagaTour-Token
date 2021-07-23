@@ -1,1 +1,3 @@
 # WinMagaTour-Token
+
+Contract: 0x03130F6FbC4c880b6DF040387463dd26b709Fe30
